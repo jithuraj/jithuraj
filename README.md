@@ -35,8 +35,6 @@
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-00a1f1.svg?style=plastic&logo=windows&logoColor=white"></a>
   </p>
 
-</br>
-
 ## Other Tools and Technologies
 
 <span>
