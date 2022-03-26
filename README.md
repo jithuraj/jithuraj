@@ -74,17 +74,41 @@
 
 <ul>
   <li>
-<h3> <a href="https://play.google.com/store/apps/details?id=in.binarybox.kasaragoddictionary"> Kasaragod Dictionary </a></h3>
+    <h3> 
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.kasaragoddictionary"> Kasaragod Dictionary </a>
+    </h3>
+  </li>
+  <li>
+    <h3> 
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.apptotile"> App to Tile - Add Apps to Android Quick Settings Tile </a>
+    </h3>
+  </li>
+  <li>
+    <h3> 
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.blackscreen"> Black Screen - Make Your Screen Black </a>
+    </h3>
+  </li>
+  <li>
+    <h3> 
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.iconpack.hacker"> Hack style - icon pack </a>
+    </h3>
+  </li>
+  <li>
+    <h3> 
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.motivateme"> Motivate Me - Get Some Motivational Quotes </a>
+    </h3>
+  </li>
+  <li>
+    <h3> 
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.pookalam"> Pookalam: Onam Pookkalam designs, pookalam models </a>
+    </h3>
+  </li>
+  <li>
+    <h3> 
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.todo"> TODO - Simple ToDo app </a>
+    </h3>
   </li>
 </ul>
-
-[Kasaragod Dictionary](https://play.google.com/store/apps/details?id=in.binarybox.kasaragoddictionary) </br>
-[App to Tile - Add Apps to Android Quick Settings Tile](https://play.google.com/store/apps/details?id=in.binarybox.apptotile) </br>
-[Black Screen - Make Your Screen Black](https://play.google.com/store/apps/details?id=in.binarybox.blackscreen) </br>
-[Hack style - icon pack](https://play.google.com/store/apps/details?id=in.binarybox.iconpack.hacker) </br>
-[Motivate Me - Get Some Motivational Quotes](https://play.google.com/store/apps/details?id=in.binarybox.motivateme) </br>
-[Pookalam: Onam Pookkalam designs, pookalam models](https://play.google.com/store/apps/details?id=in.binarybox.pookalam) </br>
-[TODO - Simple ToDo app](https://play.google.com/store/apps/details?id=in.binarybox.todo) </br>
 
 ## Connect with Me
 
