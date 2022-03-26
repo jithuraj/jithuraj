@@ -8,7 +8,7 @@
 - :dart: I’m currently open for: a new `job opportunity`, this is [LINK TO MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
 - :heart: I love using Software as a solution for every `Problem`
 - :mortar_board: Education:
-  - Studying &nbsp; : `BCA` at [IGNOU](http://www.ignou.ac.in/).
+  - Studying &nbsp; : `BCA` @ [IGNOU](http://www.ignou.ac.in/).
   - Diploma &nbsp; : `Mechanical Engineering`
   - Diploma &nbsp; : `Auto CAD`
   - Plus Two &nbsp; : `Computer Science`
