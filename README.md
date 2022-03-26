@@ -49,7 +49,7 @@
   </li>
   <li>
     <h3> 
-      <a href="https://play.google.com/store/apps/details?id=in.binarybox.iconpack.hacker"> Hack style - icon pack </a>
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.iconpack.hacker"> Hack Style - icon pack </a>
     </h3>
   </li>
   <li>
