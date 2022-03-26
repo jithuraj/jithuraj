@@ -23,7 +23,7 @@
   <li>
     <h3> 
       <b>
-        <a href="https://play.google.com/store/apps/details?id=in.binarybox.kasaragoddictionary"> Kasaragod Dictionary </a>
+        <a href="https://play.google.com/store/apps/details?id=in.binarybox.kasaragoddictionary"> Kasaragod Dictionary - Kasaragod Words </a>
       </b>
     </h3>
   </li>
@@ -44,12 +44,12 @@
   </li>
   <li>
     <h3> 
-      <a href="https://play.google.com/store/apps/details?id=in.binarybox.blackscreen1"> Black Screen - without Wake Lock </a>
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.blackscreen1"> Black Screen - Without Wake Lock </a>
     </h3>
   </li>
   <li>
     <h3> 
-      <a href="https://play.google.com/store/apps/details?id=in.binarybox.iconpack.hacker"> Hack Style - icon pack </a>
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.iconpack.hacker"> Hack Style - Icon Pack </a>
     </h3>
   </li>
   <li>
@@ -59,12 +59,12 @@
   </li>
   <li>
     <h3> 
-      <a href="https://play.google.com/store/apps/details?id=in.binarybox.pookalam"> Pookalam: Onam Pookkalam designs, pookalam models </a>
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.pookalam"> Pookalam - Onam Pookkalam Designs, Pookalam Models </a>
     </h3>
   </li>
   <li>
     <h3> 
-      <a href="https://play.google.com/store/apps/details?id=in.binarybox.todo"> TODO - Simple ToDo app </a>
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.todo"> ToDo - Simple ToDo App </a>
     </h3>
   </li>
 </ul>
