@@ -4,7 +4,7 @@
 
 ## :raising_hand: About me
 
-- :computer: I love using Software as a solution for every `Problem`
+&emsp; - :computer: I love using Software as a solution for every `Problem`
 - :dart: I’m currently open for a new `job opportunity`, this is [LINK TO MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
 - :heart: I love using Software as a solution for every `Problem`
 - :mortar_board: Education:
