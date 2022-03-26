@@ -22,7 +22,9 @@
 <ul>
   <li>
     <h3> 
-      <a href="https://play.google.com/store/apps/details?id=in.binarybox.kasaragoddictionary"> Kasaragod Dictionary </a>
+      <b>
+        <a href="https://play.google.com/store/apps/details?id=in.binarybox.kasaragoddictionary"> Kasaragod Dictionary </a>
+      </b>
     </h3>
   </li>
   <li>
