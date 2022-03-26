@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%536FDA99&size=32&center=true&vCenter=true&width=600&height=50&lines=Android+Developer;Mechanical+Engineer;Sales+Executive;2D,3D+Designer" alt="Headline" />
 
 ## :raising_hand: About me
-
+&nbsp;
 - :computer: I love using Software as a solution for every `Problem`
 - :dart: I’m currently open for a new `job opportunity`, this is [LINK TO MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
 - :heart: I love using Software as a solution for every `Problem`
