@@ -36,12 +36,10 @@
     </h3>
   </li>
   <li>
-  <li>
     <h3> 
       <a href="https://play.google.com/store/apps/details?id=in.binarybox.blackscreen2"> Black Screen - Double Tap to Close </a>
     </h3>
   </li>
-  <li>
   <li>
     <h3> 
       <a href="https://play.google.com/store/apps/details?id=in.binarybox.blackscreen1"> Black Screen - without Wake Lock </a>
