@@ -70,7 +70,7 @@
 
 </br>
 
-## :iphone: Here are some of my android apps
+## :iphone: &nbsp; Here are some of my android apps
 
 <h3>Kasaragod Dictionary</h3>
 
