@@ -72,7 +72,7 @@
 
 ## :iphone: &nbsp; Here are some of my android apps
 
-<h3>Kasaragod Dictionary</h3>
+<h3> <a href="https://play.google.com/store/apps/details?id=in.binarybox.kasaragoddictionary"> Kasaragod Dictionary </a></h3>
 
 [Kasaragod Dictionary](https://play.google.com/store/apps/details?id=in.binarybox.kasaragoddictionary) </br>
 [App to Tile - Add Apps to Android Quick Settings Tile](https://play.google.com/store/apps/details?id=in.binarybox.apptotile) </br>
