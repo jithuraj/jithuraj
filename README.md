@@ -12,7 +12,7 @@
   - Diploma &nbsp;  : `Mechanical Engineering`
   - Diploma &nbsp;  : `Auto CAD`
   - Plus Two &nbsp; : `Computer Science`
-  - THSLC &nbsp;    : `Electronics`
+  - THSLC &nbsp; &nbsp;    : `Electronics`
 
 - :nerd_face: Always `learning new things`
   </br></br>
