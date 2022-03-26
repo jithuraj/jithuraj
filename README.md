@@ -72,7 +72,7 @@
 
 ## Here are some of my android apps
 
-<p style="display=flex;">
+<p style="color=green;">
 <img src="./assets/images/ic_kasaragod_dictionary.png" width=80px height=80px> <h1> [Kasaragod Dictionary](https://play.google.com/store/apps/details?id=in.binarybox.kasaragoddictionary)</h1> </br>
 </p>
 [App to Tile - Add Apps to Android Quick Settings Tile](https://play.google.com/store/apps/details?id=in.binarybox.apptotile) </br>
