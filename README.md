@@ -2,17 +2,17 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?color=%536FDA99&size=32&center=true&vCenter=true&width=600&height=50&lines=Android+Developer;Mechanical+Engineer;Sales+Executive;2D,3d+Designer" alt="Headline" />
 
-## :sassy_man:  About me
-- :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently having: `BCA` at IGNOU.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [LINK TO MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
-- :technologist: I love using Software as a solution for every `Problem`
+## :raising_hand:  About me
+- :computer: I love using Software as a solution for every `Problem`
+- :mortar_board: I’m currently studying: `BCA` at [IGNOU](http://www.ignou.ac.in/).
+- :dart: I’m currently open for: a new `job opportunity`, this is [LINK TO MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :heart: I love using Software as a solution for every `Problem`
 - :nerd_face: Always `learning new things`
+</br>
 
 ## 🛠️ My Skills
 
 ### 👉 IDEs
- 
 <p align="left">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
@@ -34,9 +34,11 @@
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-00a1f1.svg?style=plastic&logo=windows&logoColor=white"></a>
   </p>
 
+</br>
 
 
-<h4> Other Tools and Technologies </h4>
+## Other Tools and Technologies
+
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
@@ -45,11 +47,10 @@
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 </span>
 
+</br>
+</br>
 
-
-
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## 🛠 &nbsp;Tech Stack
 
 - :space_invader:
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -68,7 +69,7 @@
   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 
-
+</br>
 
 
 
