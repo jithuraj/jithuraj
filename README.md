@@ -35,6 +35,8 @@
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-00a1f1.svg?style=plastic&logo=windows&logoColor=white"></a>
   </p>
 
+</br></br>
+
 ## Other Tools and Technologies
 
 <span>
@@ -66,7 +68,7 @@
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-</br>
+</br></br>
 
 ## :iphone: &nbsp; Here are some of my android apps
 
@@ -107,7 +109,7 @@
     </h3>
   </li>
 </ul>
-</br>
+</br></br>
 
 ## Connect with Me
 
