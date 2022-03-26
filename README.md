@@ -9,7 +9,7 @@
 - :dart: I’m currently open for: a new `job opportunity`, this is [LINK TO MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
 - :heart: I love using Software as a solution for every `Problem`
 - :nerd_face: Always `learning new things`
-  </br>
+  </br></br>
 
 ## 🛠️ My Skills
 
