@@ -72,6 +72,7 @@
 
 ## Here are some of my android apps
 
+![Kasaragod Dictionary icon](./assets/images/ic_kasaragod_dictionary.png)
 [Kasaragod Dictionary](https://play.google.com/store/apps/details?id=in.binarybox.kasaragoddictionary) </br>
 [App to Tile - Add Apps to Android Quick Settings Tile](https://play.google.com/store/apps/details?id=in.binarybox.apptotile) </br>
 [Black Screen - Make Your Screen Black](https://play.google.com/store/apps/details?id=in.binarybox.blackscreen) </br>
