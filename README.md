@@ -105,6 +105,7 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/blender-5E5C5C?style=for-the-badge&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/auto_cad-5E5C5C?style=for-the-badge&logo=auto-cad&logoColor=white">
 </span>
 
 </br>
