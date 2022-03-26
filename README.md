@@ -11,6 +11,47 @@
 - :nerd_face: Always `learning new things`
   </br></br>
 
+## :iphone: &nbsp; Here are some of my android apps
+
+<ul>
+  <li>
+    <h3> 
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.kasaragoddictionary"> Kasaragod Dictionary </a>
+    </h3>
+  </li>
+  <li>
+    <h3> 
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.apptotile"> App to Tile - Add Apps to Android Quick Settings Tile </a>
+    </h3>
+  </li>
+  <li>
+    <h3> 
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.blackscreen"> Black Screen - Make Your Screen Black </a>
+    </h3>
+  </li>
+  <li>
+    <h3> 
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.iconpack.hacker"> Hack style - icon pack </a>
+    </h3>
+  </li>
+  <li>
+    <h3> 
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.motivateme"> Motivate Me - Get Some Motivational Quotes </a>
+    </h3>
+  </li>
+  <li>
+    <h3> 
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.pookalam"> Pookalam: Onam Pookkalam designs, pookalam models </a>
+    </h3>
+  </li>
+  <li>
+    <h3> 
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.todo"> TODO - Simple ToDo app </a>
+    </h3>
+  </li>
+</ul>
+</br></br>
+
 ## 🛠️ My Skills
 
 ### 👉 IDEs
@@ -68,47 +109,6 @@
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-</br></br>
-
-## :iphone: &nbsp; Here are some of my android apps
-
-<ul>
-  <li>
-    <h3> 
-      <a href="https://play.google.com/store/apps/details?id=in.binarybox.kasaragoddictionary"> Kasaragod Dictionary </a>
-    </h3>
-  </li>
-  <li>
-    <h3> 
-      <a href="https://play.google.com/store/apps/details?id=in.binarybox.apptotile"> App to Tile - Add Apps to Android Quick Settings Tile </a>
-    </h3>
-  </li>
-  <li>
-    <h3> 
-      <a href="https://play.google.com/store/apps/details?id=in.binarybox.blackscreen"> Black Screen - Make Your Screen Black </a>
-    </h3>
-  </li>
-  <li>
-    <h3> 
-      <a href="https://play.google.com/store/apps/details?id=in.binarybox.iconpack.hacker"> Hack style - icon pack </a>
-    </h3>
-  </li>
-  <li>
-    <h3> 
-      <a href="https://play.google.com/store/apps/details?id=in.binarybox.motivateme"> Motivate Me - Get Some Motivational Quotes </a>
-    </h3>
-  </li>
-  <li>
-    <h3> 
-      <a href="https://play.google.com/store/apps/details?id=in.binarybox.pookalam"> Pookalam: Onam Pookkalam designs, pookalam models </a>
-    </h3>
-  </li>
-  <li>
-    <h3> 
-      <a href="https://play.google.com/store/apps/details?id=in.binarybox.todo"> TODO - Simple ToDo app </a>
-    </h3>
-  </li>
-</ul>
 </br></br>
 
 ## Connect with Me
