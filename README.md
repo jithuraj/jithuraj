@@ -1,8 +1,13 @@
-# Its Jithuraj here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Its Jithuraj here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?color=%536FDA99&size=32&center=true&vCenter=true&width=600&height=50&lines=Android+Developer;Mechanical+Engineer;Sales+Executive;2D,3d+Designer" alt="Headline" />
 
 ## :sassy_man:  About me
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently having: `BCA` at IGNOU.
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [LINK TO MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :technologist: I love using Software as a solution for every `Problem`
+- :nerd_face: Always `learning new things`
 
 ## 🛠️ My Skills
 
