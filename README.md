@@ -9,12 +9,12 @@
 - :heart: I love using Software as a solution for every `Problem`
 - :mortar_board: Education:
   - Studying &nbsp; : `BCA` @ [IGNOU](http://www.ignou.ac.in/).
-  - Diploma &nbsp; : `Mechanical Engineering`
-  - Diploma &nbsp; : `Auto CAD`
+  - Diploma &nbsp;  : `Mechanical Engineering`
+  - Diploma &nbsp;  : `Auto CAD`
   - Plus Two &nbsp; : `Computer Science`
-  - THSLC &nbsp; : `Electronics`
+  - THSLC &nbsp;    : `Electronics`
 
-- :nerd_face: Always `learning variety of new things`
+- :nerd_face: Always `learning new things`
   </br></br>
 
 ## :iphone: &nbsp; Here are some of my android apps
