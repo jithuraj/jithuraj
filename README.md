@@ -8,7 +8,7 @@
 - :dart: I’m currently open for a new `job opportunity`, this is [LINK TO MY RESUME](https://drive.google.com/file/d/10Be3SDv1rgaABpTXuUudvCFuWlTROmLV/view?usp=sharing).
 - :heart: I love using Software as a solution for every `Problem`
 - :mortar_board: Education:
-  - Studying &nbsp;: `BCA - Distance Education` @ [IGNOU](http://www.ignou.ac.in/).
+  - Studying &nbsp;: `BCA - Distance Education`
   - Diploma &nbsp;: `Mechanical Engineering`
   - Diploma &nbsp;: `Auto CAD`
   - Plus Two &nbsp;: `Computer Science`
