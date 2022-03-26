@@ -14,7 +14,7 @@
   - Plus Two &nbsp;: `Computer Science`
   - THSLC &nbsp; &nbsp;: `Electronics`
 
-- :nerd_face: Always `learning new things`
+- :nerd_face: loved to `learn something new`
   </br></br>
 
 ## :iphone: &nbsp; Here are some of my android apps
