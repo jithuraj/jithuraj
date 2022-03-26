@@ -22,7 +22,6 @@
 <ul>
   <li>
     <h3> 
-    <img src="./assets/images/ic_kasaragod_dictionary.png" width=50px height=auto/>
       <a href="https://play.google.com/store/apps/details?id=in.binarybox.kasaragoddictionary"> Kasaragod Dictionary </a>
     </h3>
   </li>
