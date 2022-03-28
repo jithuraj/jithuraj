@@ -59,7 +59,7 @@
   </li>
   <li>
     <h3> 
-      <a href="https://play.google.com/store/apps/details?id=in.binarybox.pookalam"> Pookalam - Onam Pookkalam Designs, Pookalam Models </a> </h3> ( pending publication )
+      <a href="https://play.google.com/store/apps/details?id=in.binarybox.pookalam"> Pookalam - Onam Pookkalam Designs, Pookalam Models </a> </h3> <span> ( pending publication ) </span>
     
   </li>
   <li>
