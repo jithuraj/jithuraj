@@ -15,6 +15,7 @@
   - THSLC &nbsp; &nbsp;: `Electronics`
 
 - :heart_eyes: loved to `learn something new`
+- :blue_heart: currently learning `Flutter`
   </br></br>
 
 ## :iphone: &nbsp; Here are some of my android apps
