@@ -5,7 +5,7 @@
 ## :raising_hand: About me
 
 - :computer: I love using Software as a solution for every `Problem`
-- :dart: I’m currently open for a new `job opportunity`, this is [LINK TO MY RESUME](https://drive.google.com/file/d/10Be3SDv1rgaABpTXuUudvCFuWlTROmLV/view?usp=sharing).
+- :dart: Hired as `flutter developer` @ <img src='https://techfriar.com/wp-content/uploads/2021/08/TF-LOGO-wite.png' width=100/>
 - :heart: I love using Software as a solution for every `Problem`
 - :mortar_board: Education:
   - Studying &nbsp;: `BCA - Distance Education`
