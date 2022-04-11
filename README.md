@@ -5,7 +5,7 @@
 ## :raising_hand: About me
 
 - :computer: I love using Software as a solution for every `Problem`
-- :dart: Hired as `flutter developer` @ <img src='https://techfriar.com/wp-content/uploads/2021/08/TF-LOGO-wite.png' width=100/>
+- :dart: Hired as `flutter developer` @ [Techfriar](https://techfriar.com)
 - :heart: I love using Software as a solution for every `Problem`
 - :mortar_board: Education:
   - Studying &nbsp;: `BCA - Distance Education`
