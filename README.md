@@ -4,7 +4,6 @@
 
 ## :raising_hand: About me
 
-- :computer: I love to talk with computers.
 - :dart: Currently working as `flutter developer` @ [Techfriar](https://techfriar.com)
 - :heart: I love using Software as a solution for every `Problem`
 - :mortar_board: Education:
