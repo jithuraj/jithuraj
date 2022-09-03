@@ -1,11 +1,11 @@
 # Its Jithuraj here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?color=%536FDA99&size=32&center=true&vCenter=true&width=600&height=50&lines=Android+Developer;Mechanical+Engineer;Sales+Executive;2D,3D+Designer;Estimator" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%ff000000&size=32&center=true&vCenter=true&width=600&height=50&lines=Android+Developer;Flutter+Developer;Mechanical+Engineer;Sales+Executive;2D,3D+Designer;Estimator" alt="Headline" />
 
 ## :raising_hand: About me
 
-- :computer: I love using Software as a solution for every `Problem`
-- :dart: Hired as `flutter developer` @ [Techfriar](https://techfriar.com)
+- :computer: I love to talk with computers.
+- :dart: Currently working as `flutter developer` @ [Techfriar](https://techfriar.com)
 - :heart: I love using Software as a solution for every `Problem`
 - :mortar_board: Education:
   - Studying &nbsp;: `BCA - Distance Education`
@@ -15,7 +15,7 @@
   - THSLC &nbsp; &nbsp;: `Electronics`
 
 - :heart_eyes: loved to `learn something new`
-- :blue_heart: currently learning `Flutter`
+- :blue_heart: currently learning `JavaScript`
   </br></br>
 
 ## :iphone: &nbsp; Here are some of my android apps
