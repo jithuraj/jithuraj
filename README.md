@@ -5,9 +5,9 @@
 ## :raising_hand: About me
 
 - :dart: Currently working as `flutter developer` @ [Techfriar](https://techfriar.com)
-- :heart: I love using Software as a solution for every `Problem`
+- :heart: Learning front-end development *// new year plan*
 - :mortar_board: Education:
-  - Studying &nbsp;: `BCA - Distance Education`
+  - Studying &nbsp;: `BCA - Distance Education` *// never gonna finish*
   - Diploma &nbsp;: `Mechanical Engineering`
   - Diploma &nbsp;: `Auto CAD`
   - Plus Two &nbsp;: `Computer Science`
