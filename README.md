@@ -5,7 +5,11 @@
 ## :raising_hand: About me
 
 - :dart: Currently working as `flutter developer` @ [Techfriar](https://techfriar.com)
-- :heart: Learning front-end development *// new year plan*
+- :heart: checkout my opensource contributions
+  - [flutter flame game engine](https://github.com/flame-engine/flame/pulls?q=is%3Apr+author%3Ajithuraj)
+  - [flutter local notifications](https://github.com/MaikuB/flutter_local_notifications/pull/1891)
+  - [seleniumHQ](https://github.com/SeleniumHQ/seleniumhq.github.io/pull/1142)
+  - [flutter get widget](https://github.com/ionicfirebaseapp/getwidget/pull/327)
 - :mortar_board: Education:
   - Studying &nbsp;: `BCA - Distance Education` *// never gonna finish*
   - Diploma &nbsp;: `Mechanical Engineering`
