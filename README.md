@@ -1,6 +1,6 @@
 # Its Jithuraj here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?color=%ff000000&size=32&center=true&vCenter=true&width=600&height=50&lines=Android+Developer;Flutter+Developer;Mechanical+Engineer;Sales+Executive;2D,3D+Designer;Estimator" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%ff000000&size=32&center=true&vCenter=true&width=600&height=50&lines=Native+Android+Developer;Flutter+Developer;MERN+Stack+DEveloper" alt="Headline" />
 
 ## :raising_hand: About me
 
@@ -18,7 +18,7 @@
   - THSLC &nbsp; &nbsp;: `Electronics`
 
 - :heart_eyes: loved to `learn something new`
-- :blue_heart: currently learning `GOlang`
+- :blue_heart: currently learning `NEXT.js`
   </br></br>
 
 ## :iphone: &nbsp; Here are some of my android apps
