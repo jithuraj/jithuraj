@@ -1,15 +1,17 @@
 # Its Jithuraj here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?color=%ff000000&size=32&center=true&vCenter=true&width=600&height=50&lines=Native+Android+Developer;Flutter+Developer;MERN+Stack+DEveloper" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%ff000000&size=32&center=true&vCenter=true&width=600&height=50&lines=Native+Android+Developer;Flutter+Developer;MERN+Stack+Developer" alt="Headline" />
 
 ## :raising_hand: About me
 
 - :dart: Currently working as `flutter developer` @ [Techfriar](https://techfriar.com)
 - :heart: checkout my opensource contributions
-  - [flutter flame game engine](https://github.com/flame-engine/flame/pulls?q=is%3Apr+author%3Ajithuraj)
-  - [flutter local notifications](https://github.com/MaikuB/flutter_local_notifications/pull/1891)
-  - [seleniumHQ](https://github.com/SeleniumHQ/seleniumhq.github.io/pull/1142)
-  - [flutter get widget](https://github.com/ionicfirebaseapp/getwidget/pull/327)
+  - [flame-engine/flame](https://github.com/flame-engine/flame/pulls?q=is%3Apr+author%3Ajithuraj)
+  - [MaikuB/flutter_local_notifications](https://github.com/MaikuB/flutter_local_notifications/pull/1891)
+  - [dart-lang/web_socket_channel](https://github.com/dart-lang/web_socket_channel/pulls?q=is%3Apr+author%3Ajithuraj)
+  - [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker/pulls?q=is%3Apr+author%3Ajithuraj+)
+  - [SeleniumHQ/seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io/pull/1142)
+  - [ionicfirebaseapp/getwidget](https://github.com/ionicfirebaseapp/getwidget/pull/327)
 - :mortar_board: Education:
   - Studying &nbsp;: `BCA - Distance Education` *// never gonna finish*
   - Diploma &nbsp;: `Mechanical Engineering`
@@ -79,6 +81,8 @@
 ### 👉 IDEs
 
 <p align="left">
+  &emsp;
+    <a href="#"><img alt="vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
