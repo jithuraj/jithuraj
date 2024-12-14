@@ -4,7 +4,7 @@
 
 ## :raising_hand: About me
 
-- :dart: Currently working as `flutter developer` @ [Techfriar](https://techfriar.com)
+- :dart: Currently working as `Full stack developer` @ [Techfriar](https://techfriar.com)
 - :heart: checkout my opensource contributions
   - [flame-engine/flame](https://github.com/flame-engine/flame/pulls?q=is%3Apr+author%3Ajithuraj)
   - [MaikuB/flutter_local_notifications](https://github.com/MaikuB/flutter_local_notifications/pull/1891)
