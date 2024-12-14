@@ -13,7 +13,6 @@
   - [SeleniumHQ/seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io/pull/1142)
   - [ionicfirebaseapp/getwidget](https://github.com/ionicfirebaseapp/getwidget/pull/327)
 - :mortar_board: Education:
-  - Studying &nbsp;: `BCA - Distance Education` *// never gonna finish*
   - Diploma &nbsp;: `Mechanical Engineering`
   - Diploma &nbsp;: `Auto CAD`
   - Plus Two &nbsp;: `Computer Science`
