@@ -44,28 +44,8 @@
   </li>
   <li>
     <h3> 
-      <a href="https://play.google.com/store/apps/details?id=in.binarybox.blackscreen2"> Black Screen - Double Tap to Close </a>
-    </h3>
-  </li>
-  <li>
-    <h3> 
-      <a href="https://play.google.com/store/apps/details?id=in.binarybox.blackscreen1"> Black Screen - Without Wake Lock </a>
-    </h3>
-  </li>
-  <li>
-    <h3> 
-      <a href="https://play.google.com/store/apps/details?id=in.binarybox.iconpack.hacker"> Hack Style - Icon Pack </a>
-    </h3>
-  </li>
-  <li>
-    <h3> 
       <a href="https://play.google.com/store/apps/details?id=in.binarybox.motivateme"> Motivate Me - Get Some Motivational Quotes </a>
     </h3>
-  </li>
-  <li>
-    <h3> 
-      <a href="https://play.google.com/store/apps/details?id=in.binarybox.pookalam"> Pookalam - Onam Pookkalam Designs, Pookalam Models </a></h3>
-    
   </li>
   <li>
     <h3> 
